@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-burgundy: #5A0015;
+  --color-burgundy-dark: #3E000E;
+  --color-burgundy-light: #7A0A25;
+  --color-gold: #D4AF37;
+  --color-gold-light: #F4D03F;
+  --color-gold-dark: #AA8C2C;
+  --color-cream: #FFFDD0;
+  --color-cream-light: #FFFAF0;
+
+  --font-serif: var(--font-serif);
+  --font-sans: var(--font-sans);
+}
+
+body {
+  @apply bg-cream-light text-burgundy-dark;
+}

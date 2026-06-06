@@ -1,0 +1,6 @@
+{
+  "name": "Indira - Sarees & Jewels",
+  "description": "Premium luxury Indian Saree & Jewelry eCommerce website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
